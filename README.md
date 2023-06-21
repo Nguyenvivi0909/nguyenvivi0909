@@ -14,7 +14,7 @@
   <a href="https://www.facebook.com/nguyenthituongvi.vi.31" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/nguyenttvi" alt="Github">
+  <a href="https://github.com/Nguyenvivi0909" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
 
@@ -47,8 +47,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvivi0909&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="nguyenttvi" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=nguyenvivi0909&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="nguyenttvi" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyenvivi0909&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="Nguyenvivi0909" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Nguyenvivi0909&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="Nguyenvivi0909" width="100%"/>
     </td>
     <td>
       <p align="center"> 
