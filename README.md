@@ -48,11 +48,11 @@
   <tr>
     <td>
            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyenvivi0909&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="Nguyenvivi0909" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Nguyenvivi0909&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="Nguyenvivi0909" width="100%"/>
-    </td>
+<!--       <img src="https://github-readme-stats.vercel.app/api?username=Nguyenvivi0909&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="Nguyenvivi0909" width="100%"/>-->
+    </td> 
     <td>
       <p align="center"> 
-        <img src="https://www.gifmaniacos.es/wp-content/uploads/2021/03/gifmaniacos.es-2-3.gif" alt="dev" width="100%"/>
+        <img src="https://www.gifmaniacos.es/wp-content/uploads/2021/03/gifmaniacos.es-2-3.gif" alt="dev" width="50%"/>
       </p>
     </td>
   </tr>
