@@ -58,6 +58,3 @@
   </tr>
 </table>
 
-## Certificates:
-
-<img align="left" width="400" src="https://coursera-certificate-images.s3.amazonaws.com/Q7QGL4KU8X7F">
